@@ -24,11 +24,6 @@ Flightmanager is an application for managing flights. The application consists o
 - `GET /flight/getFlight`: Retrieve flight information.
 - `GET /flight/getAllFlight`: Retrieve information about all flights.
 
-## Requirements
-
-- .NET 6.0
-- An IDE that supports .NET, e.g., JetBrains Rider, Visual Studio.
-
 ## Running
 
 1. Clone the repository to your local environment.
