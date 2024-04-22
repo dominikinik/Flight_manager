@@ -24,7 +24,7 @@ Flightmanager is an application for managing flights. The application consists o
 - `GET /flight/getFlight`: Retrieve flight information.
 - `GET /flight/getAllFlight`: Retrieve information about all flights.
 
-# Flight Validation in Flightmanager
+### Flight Validation in Flightmanager
 
 The `CheckDate` class in the `Flightmanager.Server.Controllers` namespace is responsible for validating the details of a flight. It checks the following conditions:
 
