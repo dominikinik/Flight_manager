@@ -6,6 +6,7 @@ Flightmanager is an application for managing flights. The application consists o
 
 `Flightmanager.Login` is an authorization service that allows for user registration and login. Users can also refresh their tokens using a special endpoint.
 
+
 ### Endpoints
 
 - `POST /api/usercontroler/register`: Register a new user.
@@ -17,6 +18,8 @@ Flightmanager is an application for managing flights. The application consists o
 `Flightmanager.Server` is a flight management service. It allows for adding, updating, deleting, and retrieving flights.
 
 ### Endpoints
+
+Only users with the username 'admin' will have permission to delete and add flights.
 
 - `POST /flight/addFlight`: Add a new flight.
 - `PUT /flight/updateFlight`: Update a flight.
