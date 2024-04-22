@@ -28,7 +28,7 @@ Flightmanager is an application for managing flights. The application consists o
 
 1. Clone the repository to your local environment.
 2. Open the project in your IDE.
-3. Run `Flightmanager.Login` and `Flightmanager.Server` (you can do this simultaneously using the `Multiple Startup Projects` feature in Visual Studio or its equivalent in other IDEs).
+3. Run `Flightmanager.Login` and `Flightmanager.Server`.
 4. The application is now ready to use. You can test it using tools like Postman or Flightmanager.UI
 
 ## Flightmanager.UI
