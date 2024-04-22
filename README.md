@@ -44,8 +44,3 @@ Simple UI in Angular that shows API endpoints as a web application. You can run 
 
 The application have Flightmanager.Tests with unit tests.
 
-## Improvements
-
-- Add unit tests.
-- Add a password reset feature.
-- Add a feature for sending email notifications about flight changes.
