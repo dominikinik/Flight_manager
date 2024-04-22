@@ -38,7 +38,7 @@ Flightmanager is an application for managing flights. The application consists o
 
 ## Flightmanager.UI
 
-Simple UI in Angular that shows API endpoints as a web application. You can run it by typing ng serve --open in the terminal, located in Flightmanager.UI directory.
+Simple UI in Angular that shows API endpoints as a web application. You can run it by typing npm install then  ng serve --open in the terminal, located in Flightmanager.UI directory.
 
 ## Testing
 
