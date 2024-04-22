@@ -24,12 +24,19 @@ Flightmanager is an application for managing flights. The application consists o
 - `GET /flight/getFlight`: Retrieve flight information.
 - `GET /flight/getAllFlight`: Retrieve information about all flights.
 
-## Running
+# Flight Validation in Flightmanager
 
-1. Clone the repository to your local environment.
-2. Open the project in your IDE.
-3. Run `Flightmanager.Login` and `Flightmanager.Server`.
-4. The application is now ready to use. You can test it using tools like Postman or Flightmanager.UI
+The `CheckDate` class in the `Flightmanager.Server.Controllers` namespace is responsible for validating the details of a flight. It checks the following conditions:
+
+1. **Departure and Destination are Different**: The `IsDepartureAndDestinationDifferent` method checks if the departure and destination locations of the flight are different. A flight is considered invalid if both locations are the same.
+
+2. **Departure Time is in the Future**: The `IsDepartureTimeInFuture` method checks if the departure time of the flight is in the future. A flight is considered invalid if the departure time is in the past.
+
+3. **Locations are Valid**: The `AreLocationsValid` method checks if the departure and destination locations do not contain any digits. A flight is considered invalid if either location contains a digit.
+
+4. **Flight Number is Valid**: The `IsFlightNumberValid` method checks if the flight number matches a specific pattern. The pattern is defined as two to three uppercase letters, followed by one to four digits, optionally followed by an uppercase letter. A flight is considered invalid if the flight number does not match this pattern.
+
+
 
 ## Flightmanager.UI
 
