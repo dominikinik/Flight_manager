@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=48119ED7_002D1306_002D4572_002D933B_002DAD423FAA0770_002Ff_003AUnitJwt_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d694f27_002D576c_002D4416_002Dabd1_002D6caedef8ed06/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenValidCredentials_RegisterAndLogin_ReturnsOkResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitTestServer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitJwt.TestJwtTokenAndRolePolicy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitTestUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitJwt.AddFlight_WithAdminJwtToken_ReturnsOk&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitJwt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3945eafd_002D9f8e_002D4260_002D8a28_002Dfa762647749e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdateFlight_ReturnsOkResult_WhenFlightExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitTestServer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitJwt.TestJwtTokenAndRolePolicy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitJwt&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitTestUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3e3bd1c0_002Dd8b7_002D4520_002D9a44_002Daf0a1f13fdd6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegisterTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\domin\source\repos\Flightmanager\TestApi" Presentation="&amp;lt;TestApi&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52378e51_002D47d0_002D4194_002Da96d_002Df00cdecacc98/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitTestUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitTestServer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::48119ED7-1306-4572-933B-AD423FAA0770::net8.0::TestApis.UnitJwt.AddFlight_WithAdminJwtToken_ReturnsOk&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f4b9affb_002D66a4_002D41d1_002Da1d8_002D3c6a1fdd69f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;TestApi&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\domin\OneDrive\Desktop\Flight_manager\TestApis" Presentation="&amp;lt;TestApis&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

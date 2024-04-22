@@ -1,0 +1,21 @@
+<div class="parent">
+    <div class="wrapper">
+        <form action="">
+            <h1>Register</h1>
+            <div class="input-box">
+                <input type="text" name="username" [(ngModel)]="registerObj.username" placeholder="Username" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="input-box">
+                <input type="password" name="passwordHash" [(ngModel)]="registerObj.passwordHash" placeholder="password"
+                    required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+            <div class="remember-forgot">
+
+            </div>
+            <button type="button" class="btn" (click)="register()">Register</button>
+
+        </form>
+    </div>
+</div>

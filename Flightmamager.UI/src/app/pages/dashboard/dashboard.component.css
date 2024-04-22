@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.find {
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.scrollable-table {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f2f2f2;
+}
+
+/* Form styling */
+.add-flight-form {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: #f8f9fa;
+    /* Light grey background */
+}
+
+/* Input fields styling */
+.add-flight-form input[type="text"],
+.add-flight-form input[type="datetime-local"] {
+    flex: 1 0 20%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ced4da;
+    /* Lighter border color */
+    border-radius: 4px;
+    margin: 2px;
+    font-size: 11px;
+    /* Larger font size */
+}
+
+/* Button styling */
+.add-flight-form button {
+    flex: 1 0 100%;
+    background-color: #28a745;
+    /* More vibrant green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+}
+
+.add-flight-form button:hover {
+    background-color: #218838;
+    /* Darker green on hover */
+    color: white;
+}

@@ -1,0 +1,6 @@
+@Flightmanager.Login_HostAddress = http://localhost:5015
+
+GET {{Flightmanager.Login_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

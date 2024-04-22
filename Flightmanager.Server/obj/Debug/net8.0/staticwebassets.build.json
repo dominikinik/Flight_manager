@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y7RLCwFxoi2FKg/To//usENvDsTygrE9/pt/52HaMEQ=",
+  "Source": "Flightmanager.Server",
+  "BasePath": "_content/Flightmanager.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

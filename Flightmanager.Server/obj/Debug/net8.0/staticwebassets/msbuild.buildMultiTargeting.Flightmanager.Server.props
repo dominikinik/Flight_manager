@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Flightmanager.Server.props" />
+</Project>
